@@ -44,9 +44,3 @@ Welcome to the **BMI Calculator**! This is a simple web application built using 
 - **Helpful Guide**: Below the calculator, you'll find a guide explaining the different BMI categories and what they mean for your health.
 
 ---
-
-### Installation 🔧
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/bmi-calculator.git
