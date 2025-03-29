@@ -2,6 +2,8 @@
 
 Welcome to the **BMI Calculator**! This is a simple web application built using **Streamlit** that helps you calculate your **Body Mass Index (BMI)** based on your height and weight. It's fast, interactive, and fun to use! 🌟
 
+![BMI Calculator Screenshot](Visuals/1.png)
+
 ### How It Works ⚙️
 
 1. **Enter Your Details** 📏📊:
@@ -47,9 +49,4 @@ Welcome to the **BMI Calculator**! This is a simple web application built using 
 
 ### Visuals 🎆
 - Here are the snaps from our web! 
-
-![BMI Calculator Screenshot](Visuals/1.png
-
-
-- BMI Calculated!
 ![BMI Calculator Screenshot](Visuals/2.png)
