@@ -44,5 +44,12 @@ Welcome to the **BMI Calculator**! This is a simple web application built using 
 - **Helpful Guide**: Below the calculator, you'll find a guide explaining the different BMI categories and what they mean for your health.
 
 ---
-![BMI Calculator Screenshot](Visuals/1.png)
+
+### Visuals 🎆
+- Here are the snaps from our web! 
+
+![BMI Calculator Screenshot](Visuals/1.png
+
+
+- BMI Calculated!
 ![BMI Calculator Screenshot](Visuals/2.png)
